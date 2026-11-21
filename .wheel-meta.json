@@ -1,0 +1,22 @@
+{
+  "wheel_id": 939,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-111",
+  "project": "retaining-wall-repairs-toowoomba-seasonal-timing-3be044054912d0",
+  "parent_t1_ref": "toowoombaretainingwalls-155",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com",
+  "primary_kw": "retaining wall repairs toowoomba seasonal timing",
+  "intended_url": "https://sitesau.github.io/toowoombaretainingwalls-111/",
+  "tier": "T2",
+  "writeback_nonce": "faa8e612ba6c73df",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-repairs-toowoomba-warranty-821faac4ca356d6438315/",
+      "anchor": "more on retaining wall repairs toowoomba warranty",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
